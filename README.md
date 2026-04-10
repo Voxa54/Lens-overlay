@@ -45,3 +45,53 @@ Python 3.8 и выше
 Лицензия
 
 MIT License
+
+# Lens Overlay
+
+A desktop magnifying glass app written in Python.
+Displays a magnified area of ​​the screen over all windows in real time.
+
+---
+
+## Description
+
+This program allows you to magnify a selected area of ​​the screen using an overlay.
+
+Suitable for improving the visibility of small elements and working with interface details, as well as for use in games.
+(I used it in Enlisted on a tank and a plane, and it increased my efficiency.)
+
+---
+
+## Features
+
+- Real-time screen magnification
+- Displays on top of all windows
+- Simple and easy to use
+- Fast, lightweight operation
+- Does not affect any processes/files
+---
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Voxa54/Lens-overlay.git
+Go to the project folder:
+cd Lens-overlay
+Install dependencies:
+pip install -r requirements.txt
+Run
+python main.py
+
+Requirements
+Python 3.8 and above
+Installed dependencies from requirements.txt
+Notes
+
+The program depends on system capabilities and support for overlay windows.
+By default, the maximum frame rate is disabled.
+
+License
+
+MIT License
+
