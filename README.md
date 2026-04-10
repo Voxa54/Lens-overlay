@@ -27,10 +27,13 @@
 1. Склонировать репозиторий:
 
 git clone https://github.com/Voxa54/Lens-overlay.git
+
 Перейти в папку проекта:
 cd Lens-overlay
+
 Установить зависимости:
 pip install -r requirements.txt
+
 Запуск
 python main.py
 ---
