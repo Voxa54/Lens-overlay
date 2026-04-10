@@ -33,7 +33,7 @@ cd Lens-overlay
 pip install -r requirements.txt
 Запуск
 python main.py
-
+---
 Требования
 Python 3.8 и выше
 Установленные зависимости из requirements.txt
