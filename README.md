@@ -25,7 +25,7 @@
 ## Установка
 
 1. Склонировать репозиторий:
-```bash
+
 git clone https://github.com/Voxa54/Lens-overlay.git
 Перейти в папку проекта:
 cd Lens-overlay
